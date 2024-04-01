@@ -1,0 +1,88 @@
+﻿@model HomeVM
+
+
+<div position:absolute>
+    <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" class="active" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" class="active" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" class="active" aria-label="Slide 4"></button>
+           
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <center><img src="~/images/resort2.jpg" height="550px" width="90%" class="d-block" alt="..." /></center>
+            </div>
+            <div class="carousel-item">
+                <center><img src="~/images/resort1.jpeg" height="550px" width="90%" class="d-block" alt="..." /></center>
+            </div>
+            <div class="carousel-item">
+                <center><img src="~/images/resort3.jpeg" height="550px" width="90%" class="d-block" alt="..." /></center>
+            </div>
+            
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <form method="post" style="background-color:black" asp-action="GetResortbyDate" >
+        @* data-ajax-method="post" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#ResortsList" *@
+        <div class="row p-0 mx-0">
+            <div class="col-12 col-md-5 offset-md-1 p1-2 pr-2 pr-md-0">
+                <div class="form-group">
+                    <label>Check In Date</label>
+                    <input asp-for="CheckInDate" type="date" class="form-control" />
+                </div>
+            </div>
+            <div class="col-8 col-md-3 p1-2 pr-2">
+                <div class="form-group">
+                    <label>No. of Nights</label>
+                    <select class="form-select" asp-for="Nights">
+                        @for(var i = 1; i < 11; i++)
+                        {
+                            <option value="@i">@i</option>
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="col-4 col-md-2 pt-4 pr-2 ">
+                <div class="form-group">
+                    <button type="button" onclick="fnLoadResort()" class="btn btn-success btn-block">
+                        <i class="bi bi-search"></i>  &nbsp; Check Availability
+                    </button>
+                </div>
+            </div>
+            <partial name="_ResortList" model="Model" />
+        </div>
+
+      
+    </form>
+</div>
+
+@section scripts{
+    <script>
+        function fnLoadResort() {
+            console.log("Hello");
+            var obj = {
+                checkInDate:$("#CheckInDate").val(),
+                nights:$("#Nights").val()
+            };
+
+            $.ajax({
+                url: "@Url.Action("GetResortbyDate", "Home")",
+                data: obj,
+                type: "POST",
+                success: function (data) {
+                    $("#ResortsList").empty();
+                    $("#ResortsList").html(data);
+                }
+            });
+        }
+    </script>
+}

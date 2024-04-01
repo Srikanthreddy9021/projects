@@ -1,0 +1,131 @@
+﻿
+@{
+    var status = Context.Request.Query["status"];
+    var approved = "";
+    var pending = "";
+    var checkedIn = "";
+    var completed = "";
+    var cancelled = "";
+
+    switch (status)
+    {
+        case SD.StatusPending:
+            pending = "text-white bg-success";
+            break;
+        case SD.StatusApproved:
+            approved = "text-white bg-success";
+            break;
+        case SD.StatusCheckedIn:
+            checkedIn = "text-white bg-success";
+            break;
+        case SD.StatusCancelled:
+            cancelled = "text-white bg-success";
+            break;
+        case SD.StatusCompleted:
+            completed = "text-white bg-success";
+            break;
+    }
+}
+
+@model IEnumerable<Booking>
+
+<div class="w-100 card border-0 p-4">
+    <div class="card-header bg-success bg-gradient m-lg-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Booking List</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body border p-4">
+        
+
+        <div class="d-flex justify-content-end pb-4 pt-2">
+            <ul class="list-group list-group-horizontal-sm">
+                 <a style="text-decoration:none;" asp-controller="Booking" asp-action="Index" asp-route-status="@SD.StatusPending">
+                    @*  <a href="@Url.Action("Index","Booking")?status=Pending"> *@
+                    <li class="list-group-item @pending">@SD.StatusPending</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Booking" asp-action="Index" asp-route-status="@SD.StatusApproved">
+                <li class="list-group-item @approved">@SD.StatusApproved</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Booking" asp-action="Index" asp-route-status="@SD.StatusCheckedIn">
+                <li class="list-group-item @checkedIn">@SD.StatusCheckedIn</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Booking" asp-action="Index" asp-route-status="@SD.StatusCompleted">
+                <li class="list-group-item @completed">@SD.StatusCompleted</li>
+                </a>
+                <a style="text-decoration:none;" asp-controller="Booking" asp-action="Index" asp-route-status="@SD.StatusCancelled">
+                <li class="list-group-item @cancelled">@SD.StatusCancelled</li>
+                </a>
+            </ul>
+        </div>
+        <input type="text" id="searchinp" width="30%" onkeyup="search()" placeholder="Search for phone number..." />
+        <table id="tblbooking" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Email</th>
+                    <th>Status</th>
+                    <th>Check In Date</th>
+                    <th>Check Out Date</th>
+                    <th>Nights</th>
+                    <th>Total Cost</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                 @foreach(var obj in Model)
+                    {
+                <tr>
+                        <td>@obj.Id</td>
+                        <td>@obj.Name</td>
+                        <td>@obj.Phone</td>
+                        <td>@obj.Email</td>
+                        <td>@obj.Status</td>
+                        <td>@obj.CheckInDate</td>
+                        <td>@obj.CheckOutDate</td>
+                        <td>@obj.Nights</td>
+                        <td>@obj.TotalCost</td>
+                        <td>
+                            <div class="w-75 btn-group">
+                                <a href="/booking/bookingDetails?bookingId=@obj.Id" class="btn btn-outline-warning mx-2">
+                                    <i class="bi bi-pencil-square"></i>Details</a>
+                            </div>
+                        </td>
+                </tr>
+                    }
+            </tbody>
+        </table>
+        <script>
+            const search = () => {
+                let filter = document.getElementById('searchinp').value.toUpperCase();
+
+                let table = document.getElementById('tblbooking');
+
+                let tr = table.getElementsByTagName('tr');
+
+                for (var i = 0; i < tr.length; i++) {
+                    let td = tr[i].getElementsByTagName('td')[2];
+
+                    if (td) {
+                        let txt = td.textContent || td.innerHTML
+
+                        if (txt.toUpperCase().indexOf(filter) > -1) {
+                            tr[i].style.display = "";
+                        }
+                        else {
+                            tr[i].style.display = "none";
+                        }
+                    }
+                }
+            }
+        </script>
+    </div>
+</div>
+
+@* @section Scripts{
+    <script src="~/js/booking.js"></script>
+} *@

@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ResortBooking.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ResortBooking.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\css\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\export\\BookingDetails.docx",
+      "PackagePath": "staticwebassets\\export\\BookingDetails.docx"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\export\\ExportResortDetails.pptx",
+      "PackagePath": "staticwebassets\\export\\ExportResortDetails.pptx"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\0840739b-6665-457a-b781-8e104591877f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Resort\\0840739b-6665-457a-b781-8e104591877f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\117e9b89-4dbb-4191-b837-691d82f97e22.jpeg",
+      "PackagePath": "staticwebassets\\images\\Resort\\117e9b89-4dbb-4191-b837-691d82f97e22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\62d70de6-4bdc-4c88-8e4a-1e4110f773c8.jpg",
+      "PackagePath": "staticwebassets\\images\\Resort\\62d70de6-4bdc-4c88-8e4a-1e4110f773c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\6e7e2139-91d6-41af-af4e-ef9950a53187.png",
+      "PackagePath": "staticwebassets\\images\\Resort\\6e7e2139-91d6-41af-af4e-ef9950a53187.png"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\7d7a9e74-158d-4008-8e20-8608bc563b4e.jpg",
+      "PackagePath": "staticwebassets\\images\\Resort\\7d7a9e74-158d-4008-8e20-8608bc563b4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\af2d4eb0-553e-4038-a735-16ecd30f6332.jpeg",
+      "PackagePath": "staticwebassets\\images\\Resort\\af2d4eb0-553e-4038-a735-16ecd30f6332.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\bd5c93c1-13db-4ce7-8594-085ce3e53f2c.jpeg",
+      "PackagePath": "staticwebassets\\images\\Resort\\bd5c93c1-13db-4ce7-8594-085ce3e53f2c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\d33b700a-8358-40c5-bbbb-d60071e54349.jpeg",
+      "PackagePath": "staticwebassets\\images\\Resort\\d33b700a-8358-40c5-bbbb-d60071e54349.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\dc58d16d-5bac-4865-8f70-2c2c8cccd78f.jpeg",
+      "PackagePath": "staticwebassets\\images\\Resort\\dc58d16d-5bac-4865-8f70-2c2c8cccd78f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\e8dca23c-1c4e-44cf-9bc1-aaee8334554b.png",
+      "PackagePath": "staticwebassets\\images\\Resort\\e8dca23c-1c4e-44cf-9bc1-aaee8334554b.png"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\Resort\\faaf21d9-2886-4137-a419-a6d3afb02360.jpg",
+      "PackagePath": "staticwebassets\\images\\Resort\\faaf21d9-2886-4137-a419-a6d3afb02360.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\not found.jpg",
+      "PackagePath": "staticwebassets\\images\\not found.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\resort1.jpeg",
+      "PackagePath": "staticwebassets\\images\\resort1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\resort2.jpg",
+      "PackagePath": "staticwebassets\\images\\resort2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\images\\resort3.jpeg",
+      "PackagePath": "staticwebassets\\images\\resort3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\jquery-ajax-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\jquery-ajax-unobtrusive\\README.md",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\jquery-ajax-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\apexcharts.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\booking.js",
+      "PackagePath": "staticwebassets\\js\\booking.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\dashboard\\getCustomerBookingLineChart.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getCustomerBookingLineChart.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\dashboard\\getCustomerBookingPieChart.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getCustomerBookingPieChart.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\dashboard\\getTotalBookingRadial.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getTotalBookingRadial.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\dashboard\\getTotalRevenueRadial.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getTotalRevenueRadial.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\dashboard\\getTotalUserRadial.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getTotalUserRadial.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\dashboard\\radialChart.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\radialChart.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2321692\\Downloads\\Project\\ResortBooking.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ResortBooking.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ResortBooking.Web.props",
+      "PackagePath": "build\\ResortBooking.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ResortBooking.Web.props",
+      "PackagePath": "buildMultiTargeting\\ResortBooking.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ResortBooking.Web.props",
+      "PackagePath": "buildTransitive\\ResortBooking.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+﻿@using ResortBooking.Domain.Entities
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SigninManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+<ul class="navbar-nav d-none d-md-flex nav-login">
+    <li class="nav-item">
+        <a class="nav-link text-dark" href="#"> @UserManager.GetUserName(User)</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Account" asp-action="Logout">Logout</a>
+    </li>
+</ul>
